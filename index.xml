@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>ComputeRunDe</title>
+    <link>https://piraum.github.io/</link>
+    <description>Recent content on ComputeRunDe</description>
+    <generator>Hugo</generator>
+    <language>de-de</language>
+    <lastBuildDate>Mon, 18 Nov 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://piraum.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Galaxy S4 LTE-A Handheld</title>
+      <link>https://piraum.github.io/photos/galaxys4handheld/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://piraum.github.io/photos/galaxys4handheld/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Galaxy_S4&#34;&gt;GalaxyS4&lt;/a&gt;,Samsung Galaxy S4 LTE Handheld Umbau auf Android Pie 9.0 CustomROM (LineageOS) und Daijishö Launcher.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Galaxy S6 Handheld</title>
+      <link>https://piraum.github.io/photos/galaxys6handheld/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://piraum.github.io/photos/galaxys6handheld/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Galaxy_S6&#34;&gt;GalaxyS6&lt;/a&gt;,Samsung Galaxy S6 Handheld Umbau auf Android 11 CustomROM (LineageOS) und Daijishö Launcher.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Galaxy S8 DEX Handheld</title>
+      <link>https://piraum.github.io/photos/galaxys8handheld/</link>
+      <pubDate>Mon, 18 Nov 2024 00:00:00 +0000</pubDate>
+      <guid>https://piraum.github.io/photos/galaxys8handheld/</guid>
+      <description>&lt;p&gt;&lt;a href=&#34;https://en.wikipedia.org/wiki/Galaxy_S8&#34;&gt;GalaxyS8&lt;/a&gt;,Samsung Galaxy S8 DEX Handheld Umbau auf Android Pie 9.0 CustomROM (LineageOS) und Daijishö Launcher, sowie DEX für TV/Monitor oder Beamer.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Über die ComputeRunDe</title>
+      <link>https://piraum.github.io/about/</link>
+      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
+      <guid>https://piraum.github.io/about/</guid>
+      <description>&lt;p&gt;Die ComputeRunDe ist eine kleine Dokumentation und Vorstellung des Baufortschritts einer mobilen Retro-LAN Jurte und allerlei Projekte rund um Hard- und Software, welche damit zu tun haben.&lt;/p&gt;&#xA;&lt;p&gt;![Console] (&lt;a href=&#34;https://piraum.github.io/content/photos/about.jpg?raw=true&#34;&gt;https://piraum.github.io/content/photos/about.jpg?raw=true&lt;/a&gt;)&lt;/p&gt;&#xA;&lt;h2 id=&#34;überschrift&#34;&gt;Überschrift&lt;/h2&gt;&#xA;&lt;p&gt;Text für eine Vorstellung:&lt;/p&gt;&#xA;&lt;pre tabindex=&#34;0&#34;&gt;&lt;code&gt;Beispieltext in einem Kasten&#xA;&lt;/code&gt;&lt;/pre&gt;&lt;p&gt;Vorstellung zu Ende.&lt;/p&gt;&#xA;&lt;h2 id=&#34;license&#34;&gt;License&lt;/h2&gt;&#xA;&lt;p&gt;Copyright © 2024 - ComputeRunDe by zer0 Zystems&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Impressum</title>
+      <link>https://piraum.github.io/impressum/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>https://piraum.github.io/impressum/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
